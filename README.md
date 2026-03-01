@@ -33,6 +33,7 @@ Validated Output (Safe for Production Use)
 ```
 
 📂 Project Structure
+```bash
 Movie-Recommendation-Output-Validator/
 │
 ├── movieRecommendation.py
